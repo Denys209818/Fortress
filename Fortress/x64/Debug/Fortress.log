@@ -1,0 +1,6 @@
+﻿  Catapult.cpp
+  Fortress.cpp
+  Main.cpp
+  Создание кода...
+C:\Users\Denis\Desktop\Новая папка\Fortress\Fortress\Main.cpp(11,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Fortress.vcxproj -> C:\Users\Denis\Desktop\Новая папка\Fortress\x64\Debug\Fortress.exe
